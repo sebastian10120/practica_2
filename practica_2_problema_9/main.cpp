@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include "libreria_9.h"
 using namespace std;
 
 bool comprobar_solo_numerico(char a[], int largo);
