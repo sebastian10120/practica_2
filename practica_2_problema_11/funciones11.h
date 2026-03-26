@@ -63,7 +63,7 @@ void reservar_asiento(char **arreglo, int filas, int columnas){
             }
             while(reserva_columna == true);
         }
-
+        cin.clean();
     }
     while (reserva == true);
 }
