@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include "funciones17.h"
 using namespace std;
 int buscar_amigos(int n, int limite);
 
