@@ -1,4 +1,5 @@
 #include <iostream>
+#include "funciones11.h"
 using namespace std;
 
 void asignar_valores(char **arreglo, int filas, int columnas);
