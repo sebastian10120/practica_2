@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include "funciones15.h"
 using namespace std;
 void valores_cuadrado(int cuadrado[4]);
 void cuadrado_intercepto(int a[4],int b[4], int c[4]);
