@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include "libreria13.h"
 using namespace std;
 void calcular_estrella(int **matriz, int filas, int columnas);
 
